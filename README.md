@@ -43,16 +43,22 @@ O projeto utiliza uma combinação de tecnologias que destacam:
 > Substitua os caminhos abaixo pelos screenshots reais após executar seu projeto.
 
 ### 🔻 Página de upload
-![Página de upload](/static/img/upload.png)
+![Página de upload](/exemplos/1.png)
+
+### 🔻 Análise Geral
+![Análise Geral](/exemplos/2.png)
+
+### 🔻 Análise por participante
+![Análise por participante](/exemplos/3.png)
 
 ### 🔻 Emojis mais usados
-![Gráfico de emojis](/static/img/emojis.png)
+![Gráfico de emojis](/exemplos/4.png)
 
 ### 🔻 Atividade por dia da semana
-![Gráfico dias da semana](/static/img/dias.png)
+![Gráfico dias da semana](/exemplos/5.png)
 
 ### 🔻 Evolução temporal das mensagens
-![Gráfico de datas](/static/img/datas.png)
+![Gráfico de datas](/exemplos/6.png)
 
 ---
 
@@ -60,15 +66,10 @@ O projeto utiliza uma combinação de tecnologias que destacam:
 
 ### Pré-requisitos
 
+- Conversa exportada de um WhatsApp Android (No canto superior direito da conversa, acesse os três pontos, entre em "mais" e exporte a conversa sem mídias)
 - Python 3.8+
 - Git instalado
+- Bibliotecas do requirements.txt
 
-### Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/juanmends/Analise-WhatsApp.git
-cd Analise-WhatsApp
-
-# Instale as dependências
-pip install -r requirements.txt
+### Executando
+Ao executar o programa, um endereço local será exibido no terminal. Acesse esse endereço pelo navegador para utilizar a aplicação.
