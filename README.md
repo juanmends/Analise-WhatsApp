@@ -28,7 +28,7 @@ O projeto utiliza uma combinação de tecnologias que destacam:
 ## 💡 Funcionalidades
 
 - ✅ Upload de arquivos de conversas `.txt` exportados do WhatsApp
-- ✅ Detecção de autores, palavras, emojis e mídias ocultas
+- ✅ Detecção de autores, palavras, emojis e mídias
 - ✅ Geração de gráficos interativos:
   - **📊 Emojis mais usados**
   - **📅 Dias da semana mais ativos**
@@ -39,8 +39,6 @@ O projeto utiliza uma combinação de tecnologias que destacam:
 ---
 
 ## 📷 Demonstrações
-
-> Substitua os caminhos abaixo pelos screenshots reais após executar seu projeto.
 
 ### 🔻 Página de upload
 ![Página de upload](/exemplos/1.png)
@@ -67,8 +65,7 @@ O projeto utiliza uma combinação de tecnologias que destacam:
 ### Pré-requisitos
 
 - Conversa exportada de um WhatsApp Android (No canto superior direito da conversa, acesse os três pontos, entre em "mais" e exporte a conversa sem mídias)
-- Python 3.8+
-- Git instalado
+- Python
 - Bibliotecas do requirements.txt
 
 ### Executando
